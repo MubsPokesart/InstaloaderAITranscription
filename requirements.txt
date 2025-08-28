@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+instaloader
+moviepy==1.0.3
+openai-whisper
+chromadb
+sentence-transformers
+openai
+pydantic
+psutil
